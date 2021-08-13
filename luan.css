@@ -1,0 +1,33 @@
+.st{
+    border-collapse: collapse;
+    margin: auto;
+    background: white;
+    box-shadow: 20px solid black;
+    border-radius: 7px;
+    overflow: hidden;
+    margin-top: 180px;
+  
+}
+.st1{
+    height: 120px;
+    width: 420px;
+  
+}
+body{
+    background: linear-gradient(to right,#b32478,#ea698b);
+}
+.st3{ 
+    height: 35px;
+    width: 350px;
+    font-size: 15px;
+    padding-left: 20px;
+}
+.st4{
+    color: #c62d72;
+    
+}
+.st5{
+    height: 50px;
+    width: 420px;
+    padding-bottom: 30px;
+}
