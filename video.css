@@ -1,0 +1,99 @@
+body{
+    background:#ff5ca5;
+}
+html{
+   font-family:Arial, Helvetica, sans-serif
+  }
+#header{
+  color: #001f54;
+}
+#header h1{
+    text-align: center;
+}
+#Pr{
+  color:#001f54
+}
+#Pr h2{
+  border-top: 2px solid white;
+  text-align: center;
+  padding-top: 20px;
+}
+#gy{
+  float: left;
+  color: #001f54;
+  padding-left: 30px;
+}
+#search{
+  float: right;
+  
+}
+#content{
+  border-top: 2px solid white;
+  padding-top: 50px;
+}
+#table1{
+float: left;
+padding-left: 100px;
+padding-bottom: 50px;
+}
+.tb1{
+  width: 800px;
+  height: 200px;
+  text-align: center;
+  font-weight: 300px;
+  border-collapse: collapse;
+  border-radius: 20px;
+  background-color:#ff177f;
+}
+.tr1{
+  height: 95px;
+}
+.tb2{
+  width: 800px;
+  height: 80px;
+  text-align: center;
+  font-weight: 300px;
+  border-collapse: collapse;
+  border-radius: 20px;
+  background-color:#ff177f;
+}
+.table-header{
+  height: 80px;
+  font-size: 30px;
+  border-bottom:2px solid white;
+  color: #072ac8;
+}
+.table2-header{
+  height: 80px;
+  font-size: 30px;
+  padding-bottom: 20px;
+  color: #072ac8;
+}
+.List{
+  font-weight: 50px;
+  color: #001f54;
+}
+.singer{
+  margin-top: 5px;
+}
+#table2{
+  float: right;
+  padding-right: 100px;
+  padding-bottom: 50px;
+}
+img{
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+}
+audio{
+  height: 80ox;
+  width: 400px;
+}
+.Note{
+  padding-left: 30px;
+}
+iframe{
+  width: 500px;
+  height: 300px;
+}
