@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Begin header */
+#header{
+    display: inline-block;
+    margin:2% 14%
+}
+#header #focus{
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+    float: left;
+    margin: 10px 20px;
+}
+#header #item{
+    width: 80px;
+    float: right;
+    margin: 10px 15px;
+}
+#header #quantity{
+    font-size: 25px;
+    display: inline-block;
+    margin: 25px 16px;
+}
+#header #text{
+    font-size: 13px;
+}
+/* End header */
+
+/* Begin content */
+#content{
+display: inline-block;
+border: 2px solid #118ab2;
+width: 1328px;
+height: 420px;
+margin: -1% 15%;}
+
+  /* Heaher content*/
+#content #content-header{
+background-color: #118ab2;
+overflow: hidden;
+}
+#content .icofont-basket{
+    font-size: 35px;
+    margin-left: 10px;
+    color: #fff;
+    float: left;
+}
+#content #temp{
+    margin: 10px;
+    color: #fff;
+    float: left;
+}
+
+     /* Table */
+#content #table{
+    width: 1300px;
+    height: 300px;
+    border: 1px solid #cccbcb;
+    align-items: center;
+    justify-content: center;
+    margin: 13px 13px;
+    background-color: #e0dddd;
+}
+#table .MDH{
+    display: inline-block;
+    float: left;
+    height: 40px;
+    width: 120px;
+    border: 1px solid rgb(163, 161, 161);
+    text-align: center;
+    line-height: 40px;
+}
+#table .TKH{
+    display: inline-block;
+    float: left;
+    height: 40px;
+    width: 460px;
+    border: 1px solid rgb(163, 161, 161);
+    text-align: center;
+    line-height: 40px;
+}
+#table .NM{
+    display: inline-block;
+    float: left;
+    height: 40px;
+    width: 260px;
+    border: 1px solid rgb(163, 161, 161);
+    text-align: center;
+    line-height: 40px;
+}
+#table .TT{
+    display: inline-block;
+    float: left;
+    width: 230px;
+    border: 1px solid rgb(163, 161, 161);
+    text-align: center;
+    line-height: 40px;
+}
+#table .TC{
+    display: inline-block;
+    float: left;
+    width: 220px;
+    border: 1px solid rgb(163, 161, 161);
+    text-align: center;
+    line-height: 40px;
+}
+.header-table .font{
+    font-weight: 600;
+}
+#table .ct{
+    height: 62.5px !important;
+    line-height: 65px !important;
+    background-color: #fff;
+    text-align: left;
+}
+.icofont-eye-alt{
+   margin-left: 65px;
+
+
+}
+.ct .icon-table{
+    font-size: 25px;
+}
+.font-ct{
+    margin-left: 8px;
+}
+
+  /*Note*/
+#content .end{
+    margin-left:15px
+}
+.end .icofont-hand-right{
+    font-size: 25px;
+    color: red;
+}
+.end > a{
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+}
+/* End content */
+
+
+
