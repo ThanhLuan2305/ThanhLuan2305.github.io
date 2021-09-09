@@ -603,6 +603,10 @@ footer .end-footer #end-footer{
     .mg-r-l-20{
        margin: 0 13%;
     }
+    #slider .banner{
+        padding: 0 0;
+        width: 100%;
+    }
 }
 @media (min-width:1400px) and (max-width:1599px) {
     .mg-r-l-20{
@@ -610,6 +614,10 @@ footer .end-footer #end-footer{
     }
     .table-pro .table-text .text-left{
         margin-top: 15%;
+    }
+    #slider .banner{
+        padding: 0 0;
+        width: 100%;
     }
 }
 @media (min-width:1000px) and (max-width:1399px) {
@@ -619,6 +627,10 @@ footer .end-footer #end-footer{
     .table-pro .table-text .text-left{
         margin-top: 8%;
     }
+    #slider .banner{
+        padding: 0 0;
+        width: 100%;
+    }
 }
 @media (min-width:700px) and (max-width:999px) {
     .mg-r-l-20{
@@ -627,4 +639,20 @@ footer .end-footer #end-footer{
     .table-pro .table-text .text-left{
         margin-top: 2%;
     }
+    #slider .banner{
+        padding: 0 0;
+        width: 100%;
+    }
+}
+@media (min-width:0px) and (max-width:699px) {
+    #slider .banner{
+        padding: 0 0;
+        width: 100%;
+    }
+    .mg-r-l-20{
+        margin: 0 0;
+     }
+     .table-pro .table-text .text-left{
+         margin-top: 0;
+     }
 }
