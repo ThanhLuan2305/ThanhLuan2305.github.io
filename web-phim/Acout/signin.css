@@ -96,7 +96,7 @@
 @keyframes color {
     0%{
         background-color: rgba(226, 18, 3, 0.7);
-        color: #000;
+        color: rgb(5, 238, 36);
     }
     50%{
         background-color: rgba(7, 47, 180, 0.7);
