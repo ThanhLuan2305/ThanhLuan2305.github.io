@@ -1,0 +1,38 @@
+
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-style: 62.5%;
+    font-family: sans-serif;
+}
+li {
+    list-style: none;
+}
+.grid {
+    max-width: 1010px;
+    margin: 0 auto;
+}
+
+.grid__full-width {
+    width: 100%;
+}
+
+.grid__row{
+    display: flex;
+    flex-wrap:wrap ;
+}
+
+
+
+@media (min-width:0px) and (max-width:840px) {
+    .header-top .menu {
+        display: none;
+    }
+    .header-center{
+        display: none;
+    }
+}
